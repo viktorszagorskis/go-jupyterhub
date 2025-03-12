@@ -1,5 +1,7 @@
 # Go-JupyterHub
 
+🚧 **Disclaimer: This project is in the alpha stage and is under active development. Features may change, and stability is not guaranteed. Use at your own risk.** 🚧
+
 Go-JupyterHub is a lightweight, Go-based alternative to JupyterHub, designed to manage and serve Jupyter notebooks efficiently. Leveraging Go's concurrency features, this project aims to provide a performant and scalable environment for interactive computing.
 
 ## Features
