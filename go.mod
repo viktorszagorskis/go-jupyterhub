@@ -1,4 +1,4 @@
-module github.com/viza12/go-jupyterhub
+module github.com/viktorszagorskis/go-jupyterhub
 
 go 1.23.0
 
